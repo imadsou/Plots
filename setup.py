@@ -2,7 +2,7 @@ from setuptools import find_packages, setup
 
 # configure these
 PACKAGE_NAME = 'imad-datascience-utils'
-MODULE_NAME = 'redi'
+MODULE_NAME = 'Spider'
 VERSION = '0.0.5'
 
 setup(
